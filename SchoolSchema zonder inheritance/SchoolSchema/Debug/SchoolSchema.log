@@ -1,0 +1,4 @@
+﻿  Module.cpp
+  SchoolSchema.cpp
+c:\users\denni\source\repos\schoolschema\schoolschema\schoolschema.cpp(21): error C2065: 'Edwin': undeclared identifier
+  Generating Code...
